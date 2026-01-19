@@ -1,0 +1,171 @@
+MY SIMPLE PORTFOLIO
+warna >>> Ungu, Putih, Hitam, Oranye
+
+Orange >>> FFAE00 >>> rgba(255, 174, 0, 1)
+Ungu >>> 560088 >>> rgba(86, 0, 136, 1)
+
+FITUR-FITUR DIHARAPKAN:
+1. Ada menu Home untuk langsung menyapa pengunjung website dan memberitahu kita itu siapa >>> Home
+2. Ada fitur Untuk Melihat Sertifikat dan Penjelasan Tentang Sertifikat Itu >>> Certificate
+	- Ada masalah, yang dimana sertifikat ini memiliki bentuk potrait dan landscape, jadi bentuk dari div nya harus mengikuti rasio dari gambar agar terlihat estetik,
+3. Ada Fitur About Untuk Melihat Rekam Jejak Sebagai Apa, >>> About
+4. Ada fitur untuk download cv >>> Download Cv
+5. Ada fitur untuk Pekerjakan Saya >>> Hire Me!
+6. Ada fitur untuk melihat project apa saja yang sudah saya kerjakan >>> Projects
+	- masukkan link github terhadap fitur itu
+7. 
+
+
+KESADARAN:
+1. Tentukan isi content dari Project, apakah Pakai Video Atau Foto ??
+2. Apa saja yang akan di taruh pada About ??
+	- Hobi >>> Story Telling
+		- Mendengarkan musik, Membaca, mencoba hal baru
+	- Tempat Tinggal >>> Story Telling
+	- Sekolah >>> SD >> SMP >>> SMK >>> Politeknik Gorontalo >>> CLEAR
+		- Kenapa mengambil Jurusan Desain Grafis Di SMK ?? 
+		- Kenapa mengambil Jurusan Teknik Informatika Di Politeknik ??
+		- Why Graphic Design ??
+			Pada awalnya hidup saya tidak memiliki arah saat baru lulus dari kelas 9 Sekolah Menengah Pertama. Kemudian saya dihadapkan dengan dua pilihan oleh orang tua saya, untuk memilih jurusan di Sekolah Menengah Kejuruan. Pilihan pertama adalah jurusan Teknik Kenderaan Ringan dan Pilihan kedua adalah Desain Grafis. Desain Grafis merupakan saran dari ibu saya, karna ibu saya menginginkan saya untuk menjadi pekerja kantoran. Namun, saya juga sudah tertarik dengan komputer saat masih di Sekolah Menengah Pertama, saat Paman saya mengajarkan editing video pernikahan dan memainkan beberapa game di komputernya. Game yang paling saya sukai dan satu-satunya yang saya tahu cara bermainnya di PC waktu itu adalah Simple Spider Solitaire, momen-momen berharga ini menjadikan saya lebih tertarik pada hal-hal yang berkaitan dengan komputer. Oleh karena itu saya memilih Desain Grafis sebagai Jurusan yang akan saya tekuni, walaupun sebenarnya di SMK waktu itu hanya Desain Grafis yang benar-benar berhubungan dengan komputer.
+
+		- Why Informatic Enginerring ??
+			Setelah lulus dari SMK, saya mencoba peruntungan untuk mendaftarkan diri sebagai anggota penegak hukum. Saya sudah menghabiskan 3 tahun mempersiapkan diri untuk hal ini. Tapi sepertinya Tuhan memiliki rencana lain. Setelah gagal menjadi penegak hukum, Ibu saya masih memberikan kesempatan untuk bisa berkuliah di salah satu Perguruan Tinggi Swasta. Karena saya masih memiliki minat terhadap Komputer dan salah satu jurusan yang ada di Perguruan itu adalah Teknik Informatika yang erat kaitannya dengan Desain Grafis, jadi saya memilih kuliah dan memilih Jurusan ini. Setelah masuk dan menghabiskan berbulan-bulan bahkan bertahun-tahun, ternyata Ilmu Komputer jauh lebih luas daripada yang bisa saya bayangkan. Saya tidak bermaksud untuk menguasai semuanya, saya hanya berusaha menghabiskan waktu dengan mencari tahu dan bereksperimen.
+	
+		- What Next ?? 
+			Saya mulai penasaran dengan bagaimana sebenarnya komputer dapat bekerja dari low level yaitu interaksi antara setiap komponen-komponen kecil yang berada di dalam komputer, tentu ini melibatkan arus lemah dan embedded system. Saya juga mulai tertarik dengan bagaimana bisa aerodinamika berpengaruh pada roket yang dapat meluncurkan rudal membawa hulu ledak berat. Saya belum menentukan jurusan apa yang seharusnya saya ambil, tapi kedua hal ini membutuhkan matematika, programming thinking, dan fisika dasar. Saya tidak begitu ahli pada bidang matematika dan fisika dasar, saat ini yang harus saya lakukan adalah memperkuat kedua bidang tersebut. Untuk menciptakan suatu teknologi yang dapat membantu manusia, bukan memusnahkan kehidupan. >>> Harus revisi, tidak logis dan tidak realistis
+
+	- Pengalaman Kerja >>> CLEAR
+	- Organisasi Sebagai Apa ?? >>> CLEAR
+	- Tertarik Dengan >>> CLEAR
+		- Filsafat 
+		- Technopreneurship 
+		- Ekonomi 
+		- Bahasa Inggris 
+		- Matematika 
+		- Artificial Intelligance 
+		- Internet Of Things 
+		- Embedded System 
+		- Seni(Violin, Piano) 
+		- Kebugaran(Lari, push-up, sit-up, plank, squat) 
+		- Photography 
+		- Videography
+		- Fisika Dasar 
+		- Botani 
+		- Self-Improvement 15
+	- Skill >>> Maksudnya kemampuan saya di berbagai bahasa pemrograman, pake presentase
+	  misalnya Java >>> CLEAR
+		   [------------            ] 30 %
+	- SoftSkills >>> CLEAR
+		- Ambil Yang Ada Di CV Sebelumnya
+	- Foto Pribadi Pake Gaya Kece tapi Tetap Formal Santai >>> CLEAR
+
+Saya Menyadari,
+Bahwa kompetensi dan kredibilitas adalah hal yang paling utama untuk mendapatkan kepercayaan dari mitra kerja. Untuk itu, saya melampirkan sertifikat serta bukti proyek yang telah saya kerjakan sebagai bentuk tanggung jawab dan bukti nyata kemampuan saya di bidang ini.
+
+Saya akan sangat mengormati Anda, 
+
+3. Apa saja yang akan di taruh pada Certificate >>> CLEAR
+	
+	kategori
+	- Junior FullStack 
+		- dicoding
+			- namanya sesuai dengan pelatihan
+		- vsga
+		- codepolitan
+		- codingstudio
+	- Graphic Designer
+		- magang_smk
+		- vsga
+		- smk >>> ini sertifikat keahlian
+		- pkpi 
+	- Others
+		- politeknik_gorontalo
+			- public speaking
+		- pramuka
+			- bantara
+			- laksana
+4. Berarti pada Project harus ada contoh project seperti screenshoot dari kode sumber atau desain >>> CLEAR
+5. Berarti mySkill tetap harus dipakai untuk sertifikat, tapi hanya untuk mengambil CSS dan HTML 
+6. Di About Me tambah: >>> CLEAR
+	Nama Lengkap: Sunarto Dwi Putra Utina
+	Sapaan: "Narto...", "Kak Narto...", "Pak Sunarto...", "Abang...", "Ajay..."
+	Kelahiran: Kab. Gorontalo, 08 Maret 2004
+	Jenis Kelamin: Laki-laki
+	Umur: 21 Tahun (2025)
+	Kesukaan: Mencari Tahu dan Bereksperimen
+6.9 Seharusnya di tentukan dulu struktur htmlnya baru penamaan class
+7. Tentukan penamaan class >>> CLEAR
+	- <header> >>> navbar
+		- <nav> >>> navbar__menu 
+			- navbar__link
+		- <nav> >>> navbar__action
+			- navbar__button
+			- navbar__button navbar_button--text
+
+	- <main> >>> front-view
+		- <section>
+		- <section>
+		- <article>
+			- <section>
+			- <section>
+		- <section>
+			- <div>
+			- <article>
+				- <div>
+				- <div>
+				- <div>
+		- <section>
+			- <div>
+			- <div>
+		- <section>
+	- <footer> >>> site-footer
+		- <div> >>> site-footer__other-skills
+		- <div> >>> site-footer__bottom 
+
+8. Pastikan agar ukuran cardnya gak berubah-ubah dan tetap sesuai ukuran awal sesuai kontent >>> CLEAR 
+9. Manipulasi element dengan DOM >>> CLEAR
+10. Screenshoot dulu >>> ini yang paling penting >>> CLEAR
+
+Junior FullStack >>> Pake Kode Sumber
+- Java
+	- Manajemen Buku >>> Kelas Terbuka
+	- Simple to-do-list >>> Ini Kase selesai dulu >>> CLEAR
+- Flutter 
+	- Dicoding Bandung >>> Beneran Ada
+	- HPP 
+	- Konversi Karawo
+- Laravel
+	- backend bifimerah
+- Desain FlowChart
+	- backend bifimerah
+	- frontend bifimerah
+	- PKMB Politeknik Gorontalo
+	- simple to-do-list >>> java
+- Desain Database
+	- hpp
+	- bifimerah
+- Website portfolio Statis 
+
+Desain Grafis
+- UI Portfolio Statis
+- UI PKMB
+- UI BackEnd bifimerah
+- UI FrontEnd bifimerah
+- UI HPP
+- UI Konversi karawo
+- Logo Utina
+- Percetakan
+	- twibbon
+		
+	- banner
+		
+	- spanduk
+		
+	- baliho
+- Illustrator
+	
+
+Others
+ - Analisis Data
+ - Machine Learning
+
