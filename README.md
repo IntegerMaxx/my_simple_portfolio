@@ -83,7 +83,6 @@ Website ini dapat dihosting secara gratis menggunakan:
 ## Kontak
 
 Dibuat oleh **Sunarto Utina**
-Silakan gunakan dan kembangkan sesuai kebutuhan.
 
 ---
 
